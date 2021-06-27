@@ -1,0 +1,148 @@
+@media (max-width:1199px) {
+
+    .banner-details {
+        display: inline-block;
+        padding-top: 150px;
+        width: 50%!important;
+    }
+      
+     
+    .col-xl-6.banner-img {
+        width: 50%;
+    }
+    .col-xl-6.banner-img figure img{
+        width: 100%;
+    }
+    .border {
+        border: 1px solid #dee2e6!important;
+        width: 50%;
+        display: inline-block;
+    }
+    .border figure img{
+        width: 100%;
+    }
+    .About-details {
+        padding-top: 50px;
+        padding-left: 50px;
+        width: 50%;
+        display: inline-block;
+    }
+    .port-folio div {
+        width: 25%;
+    }
+    .service-box {
+        background: white;
+        padding: 20px 10px;
+        width: 33%;
+    }
+    .T-memberBox {
+        width: 25%;
+    }
+    .form {
+        background: white;
+        width: 60%;
+    }
+    .getin-touch {
+        width: 40%;
+    }
+    .form-derails {
+        margin-top: 85px!important;
+    }
+    .col-xl-6.your-phone {
+        margin-top: 14px;
+    }
+
+
+}
+
+@media (max-width:991px){
+       
+    .service-box h6 {
+        font-size: 18px;
+    }
+    .service-box a {
+        display: inline-block;
+        padding: 9px 12px;
+        box-shadow: 0px 0px 3px blue;
+    }
+}
+@media (max-width:768px){
+    .col-xl-3.T-memberBox {
+        width: 50%;
+    }
+    .form-derails {
+        padding: 0px!important;
+    } 
+
+}
+@media (max-width:550px){
+    section.banner-section .container .col-xl-6 {
+        margin-bottom: 15px;
+        width: 100%!important;
+        text-align: center;
+    }
+    section.about-me .container .row div {
+        width: 100%!important;
+        text-align: center;
+    }
+    .col-xl-7.form.p-5 {
+        width: 100%;
+    }
+    .col-xl-5.py-5.getin-touch {
+        width: 100%;
+        text-align: center;
+    }
+    .form-derails {
+        padding: 0px!important;
+        text-align: center!important;
+    }
+    .form-derails h2 {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width:500px) {
+    .col-xl-6.banner-img figure img {
+        width: 80%;
+        height: auto;
+    }
+    .service-box {
+        background: white;
+        padding: 20px 10px;
+        width: 90%;
+        margin: 0px auto;
+        box-shadow: 0px -1px 8px purple;
+        margin-bottom: 20px;
+    }
+
+}
+
+@media (max-width:480px) {
+
+    .port-folio div {
+        width: 100%;
+        margin-bottom: 15px;
+        cursor: pointer;
+    }
+    section.banner-section {
+        padding-top: 0px !important;
+    }
+    .col-xl-3.T-memberBox {
+        width: 80%;
+        margin: 10px auto;
+    }
+}
+@media (max-width:330px){
+    .col-xl-3.T-memberBox {
+        width: 95%;
+        margin: 10px auto;
+    }
+    .col-xl-7.form.p-5 {
+        width: 100%;
+        padding: 0px!important;
+    }
+    .col-xl-7.form h5 {
+        margin: 20px 0px;
+    }
+
+}

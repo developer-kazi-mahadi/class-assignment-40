@@ -1,0 +1,65 @@
+.navbar-nav{
+    
+    
+}
+.menu{
+    text-align: end;
+}
+.Main-bg{
+    background:#F9F9FF;
+}
+.banner-details{
+    padding-top: 150px;
+}
+.About-details{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.projects{
+    padding: 50px 0px;
+}
+.service-box{
+    background: white;
+    padding: 20px 10px;
+}
+.service-box header{
+    width: 100px;
+    height: 100px;
+    background: #F9F9FF;
+    text-align:center;
+    margin: auto;
+}
+.service-box header span {
+    margin-top: 25%;
+    display: inline-block;
+}
+.service-box h6 {
+    font-size: 20px;
+    line-height: 2;
+}
+.service-box a{
+      display: inline-block;
+      padding: 12px;
+      box-shadow: 0px 0px 3px blue;
+}
+.T-memberBox .card img {
+    width: 100px;
+    margin-left: 15px;
+    margin-top: -50px;
+}
+.T-memberBox .card a {
+    box-shadow: 0px 2px 4px black;
+    transition: .6s;
+}
+.T-memberBox .card a:hover {
+    background: black;
+    color: white;
+    border:1px solid transparent;
+    box-shadow: 0px 2px 4px black;
+}
+.T-memberBox .card {
+    box-shadow: 0px 2px 3px #000000bf;
+}
+.form{
+    background: white;
+}
